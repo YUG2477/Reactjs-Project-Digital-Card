@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.container{
+  color: white;
+  width: 400px;
+  height: 400px;
+  padding: 165px;
+  
+  background-color: white;
+   
+}
+.navbar{
+ 
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #1A1B21;
+  
+}
+.footer{
+  background-color: #1A1B21;
+  padding: 40px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-size: 2.5rem !important;
+}
+.icon{
+ font-size: 20px;
+ padding: 18px;
+}
+.image{
+  width: 317px;
+  height: 317px;
+
+}
+.about{
+ background-color: #1A1B21;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ padding: 40px;
+}
+.interest{
+  background-color: #1A1B21;
+}
+
+.text{
+  font-size: 13px;
+}
+.title{
+  color:wheat;
+}
+.header{
+  color: cornflowerblue;
+}
+
+.button{
+  width: 331px;
+    height: 37px;
+    color: white;
+    background-color: blueviolet;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
